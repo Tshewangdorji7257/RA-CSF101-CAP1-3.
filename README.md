@@ -13,7 +13,6 @@ To start the game, run the SWE_CAP3_02230312.py file. You will be presented with
 
 Controls
 Use the arrow keys (UP, DOWN, LEFT, RIGHT) or the WASD keys to control the snake's movement.
-Press ESC to exit the game at any time.
 
 Gameplay
 Guide the snake through the maze to eat food pellets and grow longer.
